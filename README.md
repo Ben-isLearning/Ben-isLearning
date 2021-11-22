@@ -2,7 +2,7 @@
 - 👀 I’m enrolled @ https://codewithmosh.com
 - 🌱 I’m currently learning HTML, CSS and JS.
 - 🌱 I'm working towards Microsoft Exam 98-382 
-- 💞️ I’m looking to collaborate on, nothing right now. But any feedback of my notes would be greatly appreciated!
+- 💞️ I’m looking to collaborate on, nothing right now. But any feedback, recommendations, and or challenges would be greatly appreciated!
 - 📫 How to reach me; send me a message here
 
 <!---
