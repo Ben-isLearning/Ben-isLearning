@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Ben-isLearning
 - 👀 I’m enrolled @ https://codewithmosh.com
+- 👀 I’m enrolled @ https://itcareerswitch.co.uk
 - 👀 I’m taking on https://www.theodinproject.com 
-- 🌱 I’m currently learning Git, HTML, CSS and JS, and working towards Microsoft Exam 98-382 
+- 🌱 I’m currently learning HTML, CSS, JS, and Python, and working towards Microsoft Exam 98-382 
 - 💞️ I’m going to track my learning journey by making a small project for each lesson, that can be tracked on GitHub
 - 💞️ Any feedback, recommendations, and or challenges would be greatly appreciated!
 - 📫 How to reach me; send me a message here
