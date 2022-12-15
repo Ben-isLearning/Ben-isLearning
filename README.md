@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ben-isLearning
-- 👀 I’m enrolled @ https://codewithmosh.com
-- 👀 I’m enrolled @ https://itcareerswitch.co.uk
+- 👀 I’ve just finished at @ https://itcareerswitch.co.uk
 - 🌱 I’m currently creating Portfolio projects to show off what I've learned.
+- 👀 I'm looking to begin a career in software development / software engineering
 - 💞️ Any feedback, recommendations, and or challenges would be greatly appreciated!
 - 📫 How to reach me; send me a message here
 
